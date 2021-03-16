@@ -11,7 +11,6 @@ Current languages:
 - HTML5 / CCS3
 
 Knowledge with certain frameworks/libraries/...:
-
 - Javascript:
   - Web Components(https://developers.google.com/web/fundamentals/web-components)
   - React
@@ -26,5 +25,12 @@ Knowledge with certain frameworks/libraries/...:
   - Entity Framework
   - LINQ
   - Automapper
+
+Database systems:
+- SQL
+  - MYSQL
+  - SQL Server
+- NOSQL
+  - Document
 
 
