@@ -1,3 +1,5 @@
+Fullstack developer @[Metamaze](https://metamaze.eu/)
+
 - 👋 Hi, I’m @IndyVC
 - 👀 I’m interested in full-stack development, especially Javascript and C#.
 - 🌱 I’m currently learning Augmented Reality on web (aframe/THREE/AR.js/...).
@@ -13,6 +15,7 @@ Current languages:
 Knowledge with certain frameworks/libraries/...:
 - Javascript:
   - Web Components(https://developers.google.com/web/fundamentals/web-components)
+  - Svelte / Sveltekit
   - React
   - React Native / Nativescript
   - Vue
@@ -30,7 +33,8 @@ Database systems:
 - SQL
   - MYSQL
   - SQL Server
+  - PostgreSQL
 - NOSQL
-  - Document
+  - Document (MongoDB)
 
 
