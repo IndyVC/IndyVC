@@ -1,9 +1,7 @@
 Fullstack developer @[Metamaze](https://metamaze.eu/)
 
 - 👋 Hi, I’m @IndyVC
-- 👀 I’m interested in full-stack development, especially Javascript and C#.
-- 🌱 I’m currently learning Augmented Reality on web (aframe/THREE/AR.js/...).
-- 💞️ I’m looking to collaborate on anything that is to do with javascript/C#.
+- 👀 I’m interested in full-stack development, especially Typescript and C#.
 - 📫 How to reach me indyvancanegem@hotmail.com
 
 Current languages:
@@ -35,6 +33,6 @@ Database systems:
   - SQL Server
   - PostgreSQL
 - NOSQL
-  - Document (MongoDB)
+  - Document based (MongoDB), in-depth knowledge of the aggregation framework and mongo charts
 
 
