@@ -1,32 +1,21 @@
-Fullstack developer @[Metamaze](https://metamaze.eu/)
+Fullstack developer @[Faktion](https://faktion.com/)
 
 - 👋 Hi, I’m @IndyVC
-- 👀 I’m interested in full-stack development, especially Typescript and C#.
+- 👀 I’m interested in full-stack development, especially Typescript.
 - 📫 How to reach me indyvancanegem@hotmail.com
 
-Current languages:
-- Javascript / Typescript
-- C#
-- Java
-- HTML5 / CCS3
 
 Knowledge with certain frameworks/libraries/...:
-- Javascript:
-  - Web Components(https://developers.google.com/web/fundamentals/web-components)
-  - Svelte / Sveltekit
-  - React
-  - React Native / Nativescript
-  - Vue
-  - Angular
-  - Apollo/GraphQL
-  - Mongoose
-  - Express
+- React
+- Web Components(https://developers.google.com/web/fundamentals/web-components)
+- Svelte / Sveltekit
+- React Native / Nativescript
+- Vue
+- Angular2+
+- Apollo/GraphQL
+- Mongoose
+- Express
   
-- C#/ .NET
-  - Entity Framework
-  - LINQ
-  - Automapper
-
 Database systems:
 - SQL
   - MYSQL
